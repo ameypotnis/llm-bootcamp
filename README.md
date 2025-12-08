@@ -60,6 +60,6 @@ I am passionate about explaining LLM concepts and practical AI tools in a simple
 
 ## 📝 Registration Form
 
-* **Register here:** https://forms.gle/7pNkEJwF88b7J4n6A
+* **Register here:** https://docs.google.com/forms/d/e/1FAIpQLScr0hfuIoQk-ahG5s8DYeKQl7JwttEyKWUJ53Vw3cAO4K2mTg/viewform?usp=dialog
 
 ---
