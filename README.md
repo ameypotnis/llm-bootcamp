@@ -43,6 +43,7 @@ I am passionate about explaining LLM concepts and practical AI tools integration
 * **Capacity:** upto 10 professionals
 * **Language:** Technical (English/Hindi/Marathi)
 
+Next batch will be on 18 January 2026
 ---
 
 ## 📍 Venue
