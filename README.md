@@ -3,13 +3,13 @@ Course code: ls-lrt
 
 Type: Offline(Why offline? To make it interactive and engaging)
 
-# 🚀 LLM Integration Bootcamp for Java Developers
+# 🚀 Offline LLM Integration Bootcamp for Java Developers
 
 A bootcamp designed for **Java engineers/leads/architects** who want to learn how to integrate **Large Language Models (LLMs)** into production applications using **Spring AI**, vector databases, and modern AI system design patterns.
 
 ## 🎯 What You'll Learn
 
-* Core LLM concepts: like tokens, embeddings, context windows and more
+* Core LLM concepts: like tokens, embeddings, context windows and many more
 * Vector concepts: Concepts needed to work with vector databases
 * Building LLM-powered apps with **Spring AI** in existing production applications
 * RAG architecture using Java + pgvector
@@ -19,10 +19,11 @@ A bootcamp designed for **Java engineers/leads/architects** who want to learn ho
 
 ## 👤 About the Instructor
 
-Amey Potnis, I am a **hands-on full-stack developer with 20+ years of experience**, working across backend, frontend, cloud, and DevOps.
+Amey Potnis, I am a **hands-on full-stack developer with 20+ years of experience**, working across backend, frontend, cloud, DevOps and AI.
 Over the last **1+ year**, I have been actively building and integrating **LLM-powered applications**, including RAG systems, embeddings pipelines, and AI agents for real-world production grade enterprise applications.
+I have developed/managing 16+ ai agents in the production. also creator of chat-first.ai opensource wiki based project
 
-I am passionate about explaining LLM concepts and practical AI tools in a simple, jargon-free manner.
+I am passionate about explaining LLM concepts and practical AI tools integration in a simple, jargon-free manner.
 
 🔗 **LinkedIn:** *www.linkedin.com/in/amey-potnis-2a62788*
 
@@ -37,7 +38,7 @@ I am passionate about explaining LLM concepts and practical AI tools in a simple
 
 ## 📅 Date & Time
 
-* **Date:** Sunday, 14th December 2025
+* **Date:** Sunday, 11 January 2026
 * **Time:** 10:00 AM - 12:30 PM
 * **Capacity:** upto 10 professionals
 * **Language:** Technical (English/Hindi/Marathi)
@@ -53,9 +54,9 @@ I am passionate about explaining LLM concepts and practical AI tools in a simple
 
 ## 💰 Fees
 
-* **Bootcamp Fee:** Rs. 3,500 (Inclusive of all taxes)
+* **Bootcamp Fee:** INR 4,000 (Inclusive of all taxes)
 * **Upi payment id:** ameypotnis@okicici
-*(Fill the registration form with payment transaction details. We will share the venue details after registration.)*
+*(Fill the registration form with payment transaction details. I will share the venue details after registration.)*
 ---
 
 ## 📝 Registration Form
