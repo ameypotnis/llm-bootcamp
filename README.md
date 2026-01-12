@@ -36,22 +36,18 @@ I am passionate about explaining LLM concepts and practical AI tools integration
 
 ---
 
-## 📅 Date & Time
+## 📅 Bootcamp Date & Time
 
-* **Date:** Sunday, 11 January 2026
+* **Date:** Sunday, 18 January 2026
 * **Time:** 10:00 AM - 12:30 PM
-* **Capacity:** upto 10 professionals
-* **Language:** Technical (English/Hindi/Marathi)
-
-Next batch will be on 18 January 2026
-
----
-
-## 📍 Venue
-
+* **Capacity:** upto 7 professionals (6 seats available)
+* **Language:** Technical Story Telling(English/Hindi/Marathi)
+* **Mode:** Offline
+* **Nature:** Paid
 * **Location:** Offline near Ideal colony metro station, Kothrud, Pune.
-(Details will be shared after registration.)
+(Details will be shared to you over email after registration.)
 
+Next Bootcamp will be in February 2026
 ---
 
 ## 💰 Fees
