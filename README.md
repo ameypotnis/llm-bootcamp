@@ -1,21 +1,19 @@
 
-Course code: ls-lrt
+Course code: ps-ef
 
 Type: Offline(Why offline? To make it interactive and engaging)
 
 # 🚀 Offline LLM Integration Bootcamp for Java Developers
 
-A bootcamp designed for **Java engineers/leads/architects** who want to learn how to integrate **Large Language Models (LLMs)** into production applications using **Spring AI**, vector databases, and modern AI system design patterns.
+A bootcamp designed for **Java developers/leads/architects** who want to learn how to integrate **Large Language Models (LLMs)** into production applications using **Spring AI**, vector databases, and modern AI system design patterns.
 
 ## 🎯 What You'll Learn
 
 * Core LLM concepts: like tokens, embeddings, context windows and many more
 * Vector concepts: Concepts needed to work with vector databases
 * Building LLM-powered apps with **Spring AI** in existing production applications
-* RAG architecture using Java + pgvector
-* Tool calling, advisors, and structured output using **Spring AI** etc.
-* Designing secure and production-ready AI systems using best practices
-
+* Introduction to production LLM Agents
+* Demostrating predictable multi agent system
 
 ## 👤 About the Instructor
 
@@ -38,9 +36,9 @@ I am passionate about explaining LLM concepts and practical AI tools integration
 
 ## 📅 Bootcamp Date & Time
 
-* **Date:** Sunday, 18 January 2026
-* **Time:** 10:00 AM - 12:30 PM
-* **Capacity:** upto 7 professionals (6 seats available)
+* **Date:** Sunday, 15 Feb 2026
+* **Time:** 09:30 AM - 12:30 PM
+* **Capacity:** upto 7 professionals
 * **Language:** Technical Story Telling(English/Hindi/Marathi)
 * **Mode:** Offline
 * **Nature:** Paid
@@ -52,7 +50,7 @@ Next Bootcamp will be in February 2026
 
 ## 💰 Fees
 
-* **Bootcamp Fee:** INR 4,000 (Inclusive of all taxes)
+* **Bootcamp Fee:** INR 7,000 (Inclusive of all taxes)
 * **Upi payment id:** ameypotnis@okicici
 *(Fill the registration form with payment transaction details. I will share the venue details after registration.)*
 ---
