@@ -13,6 +13,7 @@ A bootcamp designed for **Java developers/leads/architects** who want to learn h
 * Building LLM-powered apps **in existing production applications** with best practices
 * Introduction to hands on maintainable **LLM predictable multi agent system** including bots
 * Integration of **dynamic tools and skills**
+* Experience sharing of **end to end fullstack LLM app** production apps
 
 ## 👤 About the Instructor
 
