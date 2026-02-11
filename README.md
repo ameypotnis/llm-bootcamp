@@ -9,11 +9,10 @@ A bootcamp designed for **Java developers/leads/architects** who want to learn h
 
 ## 🎯 What You'll Learn
 
-* Core LLM concepts: like tokens, embeddings, context windows and many more
-* Vector concepts: Concepts needed to work with vector databases
-* Building LLM-powered apps with **Spring AI** in existing production applications
-* Introduction to production LLM Agents
-* Demostrating predictable multi agent system
+* **Core LLM concepts**: like tokens, embeddings, context windows, vector databses concepts and many more
+* Building LLM-powered apps **in existing production applications** with best practices
+* Introduction to hands on maintainable **LLM predictable multi agent system** including bots
+* Integration of **dynamic tools and skills**
 
 ## 👤 About the Instructor
 
@@ -36,7 +35,7 @@ I am passionate about explaining LLM concepts and practical AI tools integration
 
 ## 📅 Bootcamp Date & Time
 
-* **Date:** Sunday, 15 Feb 2026
+* **Date:** Sunday, 22 Feb 2026
 * **Time:** 09:30 AM - 12:30 PM
 * **Capacity:** upto 7 professionals
 * **Language:** Technical Story Telling(English/Hindi/Marathi)
