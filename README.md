@@ -2,7 +2,7 @@
 
 ### A 5-Session Weekend Series for Engineering/MCA Students
 
-**Every Sunday | 10:00 AM – 12:00 PM (2 Hours)**
+**Every Sunday | 10:00 AM – 12:00 PM (2 Hours) | upto 30 students**
 
 Most students spend their time **solving endless leet coding problems or building AI demos from huggingfaces random models and datasets** without understanding how software is actually engineered.
 Neither will significantly improve your chances of getting hired or help you grow into a great software engineer over the long term.
