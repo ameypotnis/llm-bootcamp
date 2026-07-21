@@ -14,9 +14,10 @@ Learn how software is built in the real world through practical concepts, indust
 
 ## Session 0 — AI/LLM Q&A (Free)
 
-* Discussion abount what will you get in next 5 sessions
+* Discussion about where industy is heading
 * Question answers about all asked questions on the AI/LLM basics
-* Get the feel of engineering mindset with broder discussion
+* Discuss one LLM/AI use case
+* Discussion abount what will you get in next 5 sessions
 
 ## Session 1 — DevOps Essentials (INR 500/student)
 
