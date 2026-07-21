@@ -1,62 +1,66 @@
+# Software Engineering Essentials
 
-Course code: ps-ef
+### A 5-Session Weekend Series for Engineering/MCA Students
 
-Type: Offline(Why offline? To make it interactive and engaging)
+**Every Sunday | 10:00 AM – 12:00 PM (2 Hours)**
 
-# 🚀 Offline LLM Integration Bootcamp for Java Developers
+Most students spend their time **solving endless leet coding problems or building AI demos from huggingfaces random models and datasets** without understanding how software is actually engineered.
+Neither will significantly improve your chances of getting hired or help you grow into a great software engineer over the long term.
 
-A bootcamp designed for **Java developers/leads/architects** who want to learn how to integrate **Large Language Models (LLMs)** into production applications using **Spring AI**, vector databases, and modern AI system design patterns.
+This series is different. Each session is independent, so you can attend the ones that interest you most.
+By the end of the series, you'll have a clearer understanding of what professional software engineering actually looks like and what skills make engineers valuable in the AI driven industry.
 
-## 🎯 What You'll Learn
+Learn how software is built in the real world through practical concepts, industry practices, and lessons from 20+ years of hands-on software engineering experience across application development, architecture, DevOps, and modern AI systems.
 
-* **Core LLM concepts**: like tokens, embeddings, context windows, vector databses concepts and many more
-* Building LLM-powered apps **in existing production applications** with best practices
-* Introduction to hands on maintainable **LLM predictable multi agent system** including bots
-* Integration of **dynamic tools and skills**
-* Experience sharing of **end to end fullstack LLM app** production apps
+## Session 0 — AI/LLM Q&A (Free)
 
-## 👤 About the Instructor
+* Discussion abount what will you get in next 5 sessions
+* Question answers about all asked questions on the AI/LLM basics
+* Get the feel of engineering mindset with broder discussion
 
-Amey Potnis, I am a **hands-on full-stack developer with 20+ years of experience**, working across backend, frontend, cloud, DevOps and AI.
-Over the last **1+ year**, I have been actively building and integrating **LLM-powered applications**, including RAG systems, embeddings pipelines, and AI agents for real-world production grade enterprise applications.
-I have developed/managing 16+ ai agents in the production. also creator of chat-first.ai opensource wiki based project
+## Session 1 — DevOps Essentials (INR 500/student)
 
-I am passionate about explaining LLM concepts and practical AI tools integration in a simple, jargon-free manner.
+* Understanding deployment pipelines
+* Docker fundamentals
+* CI/CD basics
+* Running applications in production
 
-🔗 **LinkedIn:** *www.linkedin.com/in/amey-potnis-2a62788*
+## Session 2 — Architecture Essentials (INR 500/student)
 
----
+* Designing scalable applications
+* APIs, databases, caching
+* System thinking
+* Common architectural patterns
 
-## 📝 Prerequisites
+## Session 3 — LLM Integration Essentials (INR 500/student)
 
-* Basic knowledge of Java ecosystem
-* Basic understanding of Spring Boot ecosystem
+* Practical AI application integration
+* Prompting, structured outputs, tool calling
+* Building reliable AI-powered applications
 
----
+## Session 4 — Developer Tooling Essentials (INR 500/student)
 
-## 📅 Bootcamp Date & Time
+* AI-assisted development and modern engineering workflows
+* Debugging techniques
 
-* **Date:** Sunday, 22 Feb 2026
-* **Time:** 09:30 AM - 12:30 PM
-* **Capacity:** upto 7 professionals
-* **Language:** Technical Story Telling(English/Hindi/Marathi)
-* **Mode:** Offline
-* **Nature:** Paid
-* **Location:** Offline near Ideal colony metro station, Kothrud, Pune.
-(Details will be shared to you over email after registration.)
+## Session 5 — Software Engineering Essentials (INR 500/student)
 
-Next Bootcamp will be in February 2026
----
+* Project structure practices
+* Agile Practices in use for developers
+* Engineering mindset
 
-## 💰 Fees
+## What Makes This Different?
 
-* **Bootcamp Fee:** INR 7,000 (Inclusive of all taxes)
-* **Upi payment id:** ameypotnis@okicici
-*(Fill the registration form with payment transaction details. I will share the venue details after registration.)*
----
+This is **not another crash course** or interview-preparation bootcamp.
 
-## 📝 Registration Form
+You'll learn:
 
-* **Register here:** https://docs.google.com/forms/d/e/1FAIpQLScr0hfuIoQk-ahG5s8DYeKQl7JwttEyKWUJ53Vw3cAO4K2mTg/viewform?usp=dialog
+* How real software teams build production systems.
+* How testing, DevOps, and architecture fit together.
+* How to use AI as an engineering partner—not a shortcut.
 
----
+
+
+**Duration:** 5 Sundays
+**Time:** Every Sunday, 10:00 AM – 12:00 PM
+**Format:** Interactive sessions with real-world examples and discussions.
